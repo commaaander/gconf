@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/friessleben/Desktop/Tunnelblick Konfiguration 2022-07-06 15.42.21.999810.tblkSetup/Global/Users/friessleben/rfr.tblk/Contents/Resources'
+let g:netrw_dirhist_7='/Users/friessleben/Desktop/Tunnelblick Konfiguration 2022-07-06 15.42.21.999810.tblkSetup/Global/Users/friessleben/rfr.tblk/Contents'
+let g:netrw_dirhist_6='/Users/friessleben/Desktop/Tunnelblick Konfiguration 2022-07-06 15.42.21.999810.tblkSetup/Global/Users/friessleben/rfr.tblk'
+let g:netrw_dirhist_5='/Users/friessleben/Desktop/Tunnelblick Konfiguration 2022-07-06 15.42.21.999810.tblkSetup/Global/Users/friessleben'
+let g:netrw_dirhist_4='/Users/friessleben/Desktop/Tunnelblick Konfiguration 2022-07-06 15.42.21.999810.tblkSetup/Global/Users'
+let g:netrw_dirhist_3='/Users/friessleben/Desktop/Tunnelblick Konfiguration 2022-07-06 15.42.21.999810.tblkSetup/Global'
+let g:netrw_dirhist_2='/Users/friessleben/Desktop/Tunnelblick Konfiguration 2022-07-06 15.42.21.999810.tblkSetup'
+let g:netrw_dirhist_1='/Users/friessleben/.ssh/vscode/vscode-remote-hosts.conf'
