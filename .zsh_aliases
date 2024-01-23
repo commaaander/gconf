@@ -1,0 +1,8 @@
+
+alias gconf='/usr/bin/git --git-dir=$HOME/.config-repository/ --work-tree=$HOME'
+
+alias ll="exa -l -g --icons"
+alias la="exa -l -g  -a --icons"
+alias update_do_demo_baw="ANSIBLE_CONFIG=~/administration/do_demo-baw/ansible/ansible.cfg ansible-playbook ~/administration/common/ansible/full_upgrade.yml -i ~/administration/do_demo-baw/ansible/hosts.ini"
+alias update_friessleben_de="ANSIBLE_CONFIG=~/administration/friessleben.de/ansible/ansible.cfg ansible-playbook ~/administration/common/ansible/full_upgrade.yml -i ~/administration/friessleben.de/ansible/hosts.ini"
+
